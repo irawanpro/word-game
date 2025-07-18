@@ -9,16 +9,16 @@ document.addEventListener('DOMContentLoaded', () => {
     // Daftar kata hewan dan nama file gambar yang sesuai
     // PENTING: PASTIKAN NAMA FILE DI FOLDER 'images/' SESUAI DENGAN NAMA DI SINI
     const animals = [
-        { word: "GAJAH", image: "gajah.png" },
-        { word: "KUCING", image: "kucing.png" },
-        { word: "ANJING", image: "anjing.png" },
-        { word: "SINGA", image: "singa.png" },
-        { word: "HARIMAU", image: "harimau.png" },
-        { word: "BERUANG", image: "beruang.png" },
-        { word: "BURUNG", image: "burung.png" },
-        { word: "KURA-KURA", image: "kura-kura.png" },
-        { word: "KELINCI", image: "kelinci.png" }, // Contoh tambahan
-        { word: "ULAR", image: "ular.png" }       // Contoh tambahan
+        { word: "GAJAH", image: "gajah.jpg" },
+        { word: "KUCING", image: "kucing.jpg" },
+        { word: "ANJING", image: "anjing.jpg" },
+        { word: "SINGA", image: "singa.jpg" },
+        { word: "HARIMAU", image: "harimau.jpg" },
+        { word: "BERUANG", image: "beruang.jpg" },
+        { word: "BURUNG", image: "burung.jpg" },
+        { word: "KURA-KURA", image: "kura-kura.jpg" },
+        { word: "KELINCI", image: "kelinci.jpg" }, // Contoh tambahan
+        { word: "ULAR", image: "ular.jpg" }       // Contoh tambahan
     ];
 
     let currentAnimal = {};
